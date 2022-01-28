@@ -1,4 +1,7 @@
-
+/*
+Author: Malachi Whittaker
+Date: Jan 28th, 2022
+*/
 package StudentFile1;
 
 /**
