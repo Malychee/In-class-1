@@ -18,8 +18,10 @@ public class CardDealer
         
         Card sevenJacks = new Card("Jcks", 7);
         sevenJacks.setSuit("Spades");
+        sevenJacks.getValue();
         
         Card fiveHearts = new Card("Dmnds", 5);
         fiveHearts = new Card ("Dmnds", 5);
+        fiveHearts.getValue();
     }
 }
