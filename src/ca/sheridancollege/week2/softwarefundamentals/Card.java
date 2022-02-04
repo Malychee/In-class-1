@@ -39,7 +39,7 @@ public class Card
      * @param suit the suit to set
      */
     public void setSuit(String suit) {
-        if(!(suit.equals("Hearts") || suit.equals("Diamonds")|| suit.equals("Clubs")|| suit.equals("Spades")))
+        if((suit.equals("Hearts") || suit.equals("Diamonds")|| suit.equals("Clubs")|| suit.equals("Spades")))
         {
             this.suit = suit;
         }
